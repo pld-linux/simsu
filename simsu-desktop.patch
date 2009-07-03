@@ -1,0 +1,9 @@
+--- simsu-1.2.1/simsu.desktop~	2009-07-03 14:32:18.000000000 +0200
++++ simsu-1.2.1/simsu.desktop	2009-07-03 14:32:18.000000000 +0200
+@@ -4,4 +4,5 @@
+ Icon=simsu
+ Terminal=false
+ Type=Application
+-Categories=Qt;Game;
++Categories=Game;LogicGame;
++# vi: encoding=utf-8
