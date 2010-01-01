@@ -9,7 +9,7 @@ Source0:	http://gottcode.org/simsu/%{name}-%{version}.tar.gz
 # Source0-md5:	bc021b15443165153143c81689da5be6
 Patch0:		%{name}-desktop.patch
 URL:		http://gottcode.org/simsu/
-Buildarch:	noarch
+BuildArch:	noarch
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
 %description
